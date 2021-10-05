@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.carousel-inner {
+    height: 450px;
+}
+
+.carousel-item {
+    height: 410px;
+}
+
+.d-block.w-100 {
+    width: 200px;
+    height: 450px;
+}
